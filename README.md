@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WebTechnologiesHandout</title>
     <style>
     body { 
         font-family: Arial, sans-serif; 
@@ -32,7 +31,7 @@
 
 </head>
 <body>
-   <h1>Web Technologies Handout</h1>
+   <h1>Web Technologies </h1>
 <h2>Course: CSS-336 (2+1)</h2>
 <p id="center">Semester: Fall 2025</p>
 <h3>Name: Abdullah Sajawal | Registration ID: FA22-BCE-089 </h3>
