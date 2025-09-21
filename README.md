@@ -37,7 +37,6 @@
 <h2>Course: CSS-336 (2+1)</h2>
 <p id="center">Semester: Fall 2025</p>
 <h3>Name: Abdullah Sajawal | Registration ID: FA22-BCE-089 </h3>
-
     <p>Following are the list of Labs:</p>
     <ol>
         <li><a href="/Lab1.html">Experiment 1: Introduction to HTML Basics</a></li>
