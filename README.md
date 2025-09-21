@@ -40,11 +40,11 @@
 
     <p>Following are the list of Labs:</p>
     <ol>
-        <li><a href="/Lab1.html">Experiment 1: Introduction to HTML
-Basics</a></li>
-        <li><a href="/lab2.html"></a></li>
-        <li><a href="/lab3.html"></a></li>
-        <li><a href="/Lab4.html"></a></li>
+        <li><a href="/Lab1.html">Experiment 1: Introduction to HTML Basics</a></li>
+        <li><a href="/lab2.html">Experiment 2: Creating and Publishing an Online Lab Manual</a></li>
+        <li><a href="/lab3.html">Experiment 3: Working with Tables, Lists, Images, and Hyperlinks</a></li>
+        <li><a href="/Lab4.html">Experiment 4: Applying CSS to HTML (Inline, Internal, and External Styles)
+</a></li>
     </ol>
 </body>
 </html>
