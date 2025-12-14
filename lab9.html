@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab 9 – Stack Implementation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            text-align: center;
+            padding: 40px;
+        }
+
+        .stack-box {
+            background: white;
+            width: 300px;
+            margin: auto;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+
+        input, button {
+            margin: 5px;
+            padding: 8px;
+        }
+
+        #stackDisplay {
+            margin-top: 15px;
+            min-height: 50px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-weight: bold;
+        }
+
+        #message {
+            margin-top: 10px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Stack Control Panel</h2>
+
+    <div class="stack-box">
+        <input type="number" id="stackInput" placeholder="Enter value">
+
+        <br>
+
+        <button onclick="handleStackAction('push')">Push</button>
+        <button onclick="handleStackAction('pop')">Pop</button>
+        <button onclick="handleStackAction('peek')">Peek</button>
+        <button onclick="handleStackAction('clear')">Clear</button>
+
+        <div id="stackDisplay">Stack: []</div>
+        <p id="message"></p>
+    </div>
+
+    <script src="lab9.js"></script>
+</body>
+</html>
